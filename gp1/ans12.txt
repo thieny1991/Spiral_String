@@ -1,0 +1,4 @@
+DATA
+ST.S
+I..C
+TNEI
